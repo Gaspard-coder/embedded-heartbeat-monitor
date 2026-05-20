@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TRCT5000_symb")(type "KiCad")(uri "${KIPRJMOD}/TCRT5000.kicad_sym")(options "")(descr ""))
+)

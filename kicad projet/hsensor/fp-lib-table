@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TCRT5000")(type "KiCad")(uri "/cal/exterieurs/gvibert-24/SE08/kicad projet/hsensor")(options "")(descr ""))
+)
