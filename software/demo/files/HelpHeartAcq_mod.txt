@@ -1,0 +1,4 @@
+File HearAcq_mod.csv contains a heart rate signal
+At the standard sampling 80 Hz, the heart rate is 73 pulses/min
+To change it, just change the sampling rate. It follows linearly sampling rate of 160 Hz gives 146 pulses/min
+Adjust the amplitude and the offset depending on the needs

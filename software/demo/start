@@ -1,0 +1,7 @@
+evince AnalogDiscovery.pdf &
+evince tp-raspberry-pi-pico.pdf &
+xfce4-terminal -x /comelec/softs/bin/waveforms &
+xfce4-terminal -T "Raspberry Pi pico" &
+xfce4-terminal -x matlab &
+
+
