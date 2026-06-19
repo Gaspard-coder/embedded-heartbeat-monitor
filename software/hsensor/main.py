@@ -12,11 +12,11 @@ WHITE = 0xFFFF
 BLACK = 0x0000
 
 # Sampling configuration
-SAMPLE_PERIOD_US = 10000   # 10 ms -> 100 Hz sampling
-SAMPLE_PERIOD_MS = 10
+SAMPLE_PERIOD_US = 20000   # 10 ms -> 100 Hz sampling
+SAMPLE_PERIOD_MS = 20
 WAVEFORM_LEN = 160         # screen width in pixels
-BPM_WINDOW = 5             # number of intervals averaged for BPM
-PEAK_THRESHOLD = 200       # AC amplitude (in u16 LSB) to qualify a peak
+BPM_WINDOW = 10             # number of intervals averaged for BPM
+PEAK_THRESHOLD = 3500       # AC amplitude (in u16 LSB) to qualify a peak
 REFRACTORY_MS = 300        # min time between two peaks (-> max 200 BPM)
 MAX_INTERVAL_MS = 2000     # -> min 30 BPM
 
